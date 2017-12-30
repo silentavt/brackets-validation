@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "954ba852e2d8125af38fec8fd0cc4a68",
+    "content-hash": "1dfa4d846dbb23168f95a976dc910bd2",
     "packages": [
         {
             "name": "silentavt/rules-validation",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silentavt/rules-validation.git",
-                "reference": "dda12adcf0bce38ddd1b1a299bea842473d5d0db"
+                "reference": "34a5b6e3fd6f84b0535a7856e105534cf08d04bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/silentavt/rules-validation/zipball/dda12adcf0bce38ddd1b1a299bea842473d5d0db",
-                "reference": "dda12adcf0bce38ddd1b1a299bea842473d5d0db",
+                "url": "https://api.github.com/repos/silentavt/rules-validation/zipball/34a5b6e3fd6f84b0535a7856e105534cf08d04bc",
+                "reference": "34a5b6e3fd6f84b0535a7856e105534cf08d04bc",
                 "shasum": ""
             },
             "require": {
@@ -47,7 +47,7 @@
                 "silentavt",
                 "validation"
             ],
-            "time": "2017-12-27T20:35:19+00:00"
+            "time": "2017-12-30T17:19:46+00:00"
         }
     ],
     "packages-dev": [],
