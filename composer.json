@@ -1,0 +1,5 @@
+{
+    "require": {
+        "silentavt/rules-validation": "^0.0.1"
+    }
+}

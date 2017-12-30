@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "954ba852e2d8125af38fec8fd0cc4a68",
+    "packages": [
+        {
+            "name": "silentavt/rules-validation",
+            "version": "0.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/silentavt/rules-validation.git",
+                "reference": "dda12adcf0bce38ddd1b1a299bea842473d5d0db"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/silentavt/rules-validation/zipball/dda12adcf0bce38ddd1b1a299bea842473d5d0db",
+                "reference": "dda12adcf0bce38ddd1b1a299bea842473d5d0db",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Silentavt\\Validation\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alexander Tikhonravov",
+                    "email": "silent.avt@gmail.com",
+                    "homepage": "http://www.silentavt.ru",
+                    "role": "Developer"
+                }
+            ],
+            "description": "This package provides a rules based validator",
+            "homepage": "https://github.com/silentavt/rules-validation",
+            "keywords": [
+                "silentavt",
+                "validation"
+            ],
+            "time": "2017-12-27T20:35:19+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
